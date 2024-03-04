@@ -1,1 +1,6 @@
 Learning how to work with remote repository through Eclippse IDE
+I am updating the file from working  directory
+The I need to stage and commit it.
+for that after saving the file right click on it
+Select team option- > add to index->(staging the file)
+Again select team option -> select commit->
